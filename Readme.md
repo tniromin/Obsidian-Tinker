@@ -6,13 +6,12 @@ The urge to seek knowledge , curiosity , is almost old as humanity . However our
 Obsidian is a modern tool for taking notes and storing knowledge . Automation within obsidian is easily achieved with the wide variety of community pluggins thus making note taking more efficient and fun . The Main goal of this Repo is to Store such techniques that are implemented using such pluggins . I hope this will be useful for anyone with similar interests or requirements. <b> Feel free to request , suggest or share your own knowledge as well .</b> 
 </p> 
 
-# Projects
-- [ ] Automate Recording of Entertainment cartlist ()
+# [[Projects]]
+- [ ] Automate Recording of Entertainment cartlist 
     <details>
     <summary><b>Mouseion</b></summary>
     The name originates from the goddesses of arts, "shrine of the Muses" . The folowing name was given to largest greek library .  
     </details>
-
     
     - [ ] Books
     - [ ] Movies
@@ -21,5 +20,4 @@ Obsidian is a modern tool for taking notes and storing knowledge . Automation wi
 - [ ] Quick Notes with Bash / PowerShell
     - [ ] Bash
     - [ ] PowerShell
-
-<!--- commit test-->
+- [ ] Implement DashBoard
