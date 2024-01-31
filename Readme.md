@@ -5,8 +5,10 @@ The urge to seek knowledge , curiosity , is almost old as humanity . However our
 <p>
 Obsidian is a software(which is popular among programmers) for taking notes and storing knowledge . Obsidian is. Automation within obsidian is easily achieved with the wide variety of community pluggins thus making note taking more efficient and fun . The Main goal of this Repo is to Store such techniques that are implemented using such pluggins . I hope this will be useful for anyone with similar interests or requirements. <b> Feel free to request , suggest or share your own knowledge as well .</b> 
 </p> 
-
-<b> Navigate to [[DashBoard]](Main.md) ,  </b> 
+<p>
+The long time goal of the following project is to document existing pluggins while improving or producing more pluggins in the long run. If this 
+</p>
+<b> Navigate to [[DashBoard]](Main.md) </b> 
 
 # Projects
 - [ ] Automate Recording of Entertainment cartlist 
@@ -18,7 +20,7 @@ Obsidian is a software(which is popular among programmers) for taking notes and 
     - [ ] Books
     - [ ] Movies
     - [ ] Anime
-    - [ ] Manga
+    - [ ] Mangaq
 - [ ] Quick Notes with Bash / PowerShell
     - [ ] Bash
     - [ ] PowerShell
